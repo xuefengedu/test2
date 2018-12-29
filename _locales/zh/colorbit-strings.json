@@ -53,7 +53,7 @@
   "ColorIcon.Square|block": "正方形",
   "ColorIcon.SmallSquare|block": "小正方形",
   "ColorIcon.Scissors|block": "剪刀",
-  "ColorIcon.Full|block": "填满",
+  "ColorIcon.FillFull|block": "填满",
   "ColorIcon.FillCircle|block": "实心圆",
   "ColorIcon.Circle|block": "圆圈",
   "colorbit.Strip.showColorIcon|block": "%colorbit_51bit|显示 ColorBit 图标： %myicon|且颜色为 %rgb=colorbit_colors",
