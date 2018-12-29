@@ -151,13 +151,13 @@ enum ColorIcon {
     //% jres=icons.scissors
     Scissors,
     //% block="fill full"
-    //% jres=icons.full
+    //% jres=coloricons.full
     FillFull,
     //% block="fill circle"
-    //% jres=icons.fillCircle
+    //% jres=coloricons.fillCircle
     FillCircle,
     //% block="circle"
-    //% jres=icons.circle
+    //% jres=coloricons.circle
     Circle,
 }
 
